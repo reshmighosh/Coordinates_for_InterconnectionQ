@@ -6,5 +6,8 @@ This repository holds code to determine the latitude and longitude values for an
 To download the interconnection queue data for the NYISO, please use the following [link](https://www.nyiso.com/interconnections). The modules and process described here can be extended to other interconnection queue data for multiple Balancing Authorities.
 
 ## Dependencies
-The following dependencies need to be installed
-pip install geopy
+The following dependencies need to be installed:
+
+```python
+!pip install geopy
+```
